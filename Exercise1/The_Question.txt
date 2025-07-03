@@ -1,0 +1,13 @@
+Example 1 - Profit Calculator
+
+Write a Python program to calculate total profits using the following equation:
+
+Total Profit = Total Revenue - Total Expenses
+Subtract total revenue from total expenses
+
+The program does the following:
+
+1. Prompt the user to enter total revenue and total expenses.
+2. Calculate total profits.
+3. Display the three values ​​in an organized manner (e.g., total profit = 100 Jordanian dinars).
+4. The program must be able to perform accurate calculations on any numeric values ​​entered by the user.
