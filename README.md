@@ -1,2 +1,2 @@
-# Session2_Ex
-Solving The Exercises of the Session 2 " Python Fundamentals " 
+# Python_FundsCH2
+Solving Exercises ( Python Fundamentals Ch2) 
